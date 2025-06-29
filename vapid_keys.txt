@@ -1,0 +1,5 @@
+Public Key:
+<YOUR_PUBLIC_VAPID_KEY>
+
+Private Key:
+<YOUR_PRIVATE_VAPID_KEY>
